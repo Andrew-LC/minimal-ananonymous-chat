@@ -1,0 +1,13 @@
+Frontend
+	- React JS
+	- Pages
+		- Login page
+		- A simple home page or dashboard
+	- Socket.io client
+Backend
+	- Express JS
+	- MongoDB
+		- USERS
+		- MESSAGES[USERS][Dont implement for now]
+		- LOGIN DATA
+	- Socket.io server
